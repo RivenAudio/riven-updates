@@ -5,7 +5,7 @@
   "app": {
     "latest": {
       "version": "1.0.0",
-      "downloadUrl": "https://github.com/YOUR_ORG/riven-updates/releases/latest",
+      "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest",
       "sha256": "REPLACE_WITH_ACTUAL_APK_SHA256",
       "knownSettingKeys": [
         "upmixed",
@@ -46,7 +46,7 @@
         "phaseDiffusion",
         "expanderEnabled"
       ],
-      "loaderDownloadUrl": "https://github.com/YOUR_ORG/riven-updates/releases/latest",
+      "loaderDownloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest",
       "message": ""
     }
   }
