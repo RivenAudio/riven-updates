@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-07-15T00:00:00Z",
+
+  "app": {
+    "latest": {
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/YOUR_ORG/riven-updates/releases/latest",
+      "sha256": "REPLACE_WITH_ACTUAL_APK_SHA256",
+      "knownSettingKeys": [
+        "upmixed",
+        "highpass",
+        "hpHz",
+        "betaco",
+        "betahi",
+        "betahiXoverHz",
+        "hostVolume",
+        "inputSource",
+        "tuningMode",
+        "phoneStereo",
+        "hfMode",
+        "expThreshold",
+        "phaseDiffusion",
+        "expanderEnabled"
+      ]
+    },
+    "message": ""
+  },
+
+  "firmware": {
+    "latest": {
+      "version": "0.7.5.A",
+      "knownSettingKeys": [
+        "upmixed",
+        "highpass",
+        "hpHz",
+        "betaco",
+        "betahi",
+        "betahiXoverHz",
+        "hostVolume",
+        "inputSource",
+        "tuningMode",
+        "phoneStereo",
+        "hfMode",
+        "expThreshold",
+        "phaseDiffusion",
+        "expanderEnabled"
+      ],
+      "loaderDownloadUrl": "https://github.com/YOUR_ORG/riven-updates/releases/latest",
+      "message": ""
+    }
+  }
+}
