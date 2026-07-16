@@ -16,7 +16,7 @@ binaries. Source stays in its existing (private) repo.
 
 Fetched directly as a raw file, e.g.:
 ```
-https://raw.githubusercontent.com/YOUR_ORG/riven-updates/main/manifest.json
+https://raw.githubusercontent.com/RivenAudio/riven-updates/main/manifest.json
 ```
 Not via the GitHub REST API — deliberately, to avoid any API rate-limit
 exposure as device count grows. See `schemaVersion` in the file itself;
