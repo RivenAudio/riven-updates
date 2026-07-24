@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-07-15T00:00:00Z",
+  "updated": "2026-07-24T15:49:00Z",
 
   "app": {
     "latest": {
@@ -53,35 +53,23 @@
 
   "loader": {
     "latest": {
-      "version": "7.1.0",
-      "firmwareVersion": "0.7.5.A",
-      "message": "",
-      "changelog": [],
+      "version": "7.1.1",
+      "firmwareVersion": "0.7.6.A",
+      "message": "Version bump to push the update to testers",
+      "changelog": [
+        "No changes from distributed release",
+        "Version bumped to engage the update protocol",
+        "firmware is exactly the same",
+        "Thank you for testing!"
+      ],
       "windows": {
-        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest/download/RivenGUI-windows.zip",
-        "sha256": "REPLACE_WITH_ACTUAL_WINDOWS_ZIP_SHA256"
+        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest/download/RivenGUI-072426.zip",
+        "sha256": "3e2ce6baa46f9f84ce23389fdbfd9938dfb8f39156c4ebb5b616250d838554ef"
       },
       "mac": {
         "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest/download/RivenGUI-mac.zip",
-        "sha256": "REPLACE_WITH_ACTUAL_MAC_ZIP_SHA256"
+        "sha256": "3e2ce6baa46f9f84ce23389fdbfd9938dfb8f39156c4ebb5b616250d838554ef"
       }
     }
   }
-}
-
-{
-  "version": "7.1.1",
-  "firmwareVersion": "0.7.6.A",
-  "message": "\"Version bump to push the update to testers\"",
-  "changelog": [
-    "No changes from distributed release",
-    "Version bumped to engage the update protocol",
-    "firmware is exactly the same",
-    "Thank you for testing!"
-  ],
-  "windows": {
-    "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest/download/RivenGUI-072426.zip",
-    "sha256": "3e2ce6baa46f9f84ce23389fdbfd9938dfb8f39156c4ebb5b616250d838554ef"
-  },
-  "mac": { /* leave existing mac entry untouched if no Mac build this release */ }
 }
