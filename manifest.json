@@ -29,7 +29,7 @@
 
   "firmware": {
     "latest": {
-      "version": "0.7.6.A",
+      "version": "0.7.5.A",
       "knownSettingKeys": [
         "upmixed",
         "highpass",
@@ -54,7 +54,7 @@
   "loader": {
     "latest": {
       "version": "7.1.0",
-      "firmwareVersion": "0.7.6.A",
+      "firmwareVersion": "0.7.5.A",
       "message": "",
       "changelog": [],
       "windows": {
