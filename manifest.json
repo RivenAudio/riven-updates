@@ -68,7 +68,7 @@
         "Tuning mode sends analog L input to L, R, C outputs",
         "Center Blend recreates stereo phantom comb filters",
         "Dynamic phase tracking for enhanced focus on Blumlien recordings",
-        "And much more!",
+        "And much more!"
       ],
       "windows": {
         "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest/download/RivenGUI-1_0_0-WIN.zip",
