@@ -29,7 +29,7 @@
 
   "firmware": {
     "latest": {
-      "version": "1.0.0.A",
+      "version": "1.0.0",
       "knownSettingKeys": [
         "upmixed",
         "highpass",
@@ -54,7 +54,7 @@
   "loader": {
     "latest": {
       "version": "1.0.0",
-      "firmwareVersion": "1.0.0.A",
+      "firmwareVersion": "1.0.0",
       "message": "Initial Production Release",
       "changelog": [
         "24 bit 48Khz audio for all paths",
