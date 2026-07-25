@@ -4,9 +4,9 @@
 
   "app": {
     "latest": {
-      "version": "1.0.0",
+      "version": "1.0.3",
       "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest",
-      "sha256": "REPLACE_WITH_ACTUAL_APK_SHA256",
+      "sha256": "6D5B31A8E014C2A199353541E8183398AF29862F6DA4AFF99ECDB44DF9DF5930",
       "knownSettingKeys": [
         "upmixed",
         "highpass",
@@ -24,7 +24,7 @@
         "expanderEnabled"
       ]
     },
-    "message": ""
+    "message": "Release 1.0.3 prior to production"
   },
 
   "firmware": {
