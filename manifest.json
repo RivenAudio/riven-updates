@@ -29,7 +29,7 @@
 
   "firmware": {
     "latest": {
-      "version": "0.7.6.A",
+      "version": "1.0.0.A",
       "knownSettingKeys": [
         "upmixed",
         "highpass",
@@ -54,7 +54,7 @@
   "loader": {
     "latest": {
       "version": "1.0.0",
-      "firmwareVersion": "1.0.0",
+      "firmwareVersion": "1.0.0.A",
       "message": "Initial Production Release",
       "changelog": [
         "24 bit 48Khz audio for all paths",
@@ -68,7 +68,7 @@
         "Tuning mode sends analog L input to L, R, C outputs",
         "Center Blend recreates stereo phantom comb filters",
         "Dynamic phase tracking for enhanced focus on Blumlien recordings",
-        "And much, much more!",
+        "And much more!",
       ],
       "windows": {
         "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest/download/RivenGUI-1_0_0-WIN.zip",
