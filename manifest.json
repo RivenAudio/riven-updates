@@ -57,18 +57,18 @@
       "firmwareVersion": "1.0.0",
       "message": "Initial Production Release",
       "changelog": [
-        "24 bit 48Khz audio for all paths"
-        "Significantly enhanced USB 2.0 compliant interface"
-        "Exceptionally high fidelity FFT and reduced transit delay"
-        "Corrected brickwall filter with no Gibbs pre-ring"
-        "Split high/low B-value to fine tune spatial tracking"
-        "Dynamics processing with user defined threshold"
-        "Multifunction P-pin allows stereo passthrough with an external switch"
-        "Unified firmware platform for all devices"
-        "Tuning mode sends analog L input to L, R, C outputs"
-        "Center Blend recreates stereo phantom comb filters"
-        "Dynamic phase tracking for enhanced focus on Blumlien recordings"
-        "And much, much more!"
+        "24 bit 48Khz audio for all paths",
+        "Significantly enhanced USB 2.0 compliant interface",
+        "Exceptionally high fidelity FFT and reduced transit delay",
+        "Corrected brickwall filter with no Gibbs pre-ring",
+        "Split high/low B-value to fine tune spatial tracking",
+        "Dynamics processing with user defined threshold",
+        "Multifunction P-pin allows stereo passthrough with an external switch",
+        "Unified firmware platform for all devices",
+        "Tuning mode sends analog L input to L, R, C outputs",
+        "Center Blend recreates stereo phantom comb filters",
+        "Dynamic phase tracking for enhanced focus on Blumlien recordings",
+        "And much, much more!",
       ],
       "windows": {
         "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest/download/RivenGUI-1_0_0-WIN.zip",
