@@ -24,7 +24,7 @@
         "expanderEnabled"
       ]
     },
-    "message": "Release 1.0.3 prior to production"
+    "message": "Android Release 1.0.3 prior to production"
   },
 
   "firmware": {
@@ -55,7 +55,7 @@
     "latest": {
       "version": "1.0.0",
       "firmwareVersion": "1.0.0",
-      "message": "Initial Production Release",
+      "message": "RivenGUI Initial Production Release",
       "changelog": [
         "24 bit 48Khz audio for all paths",
         "Significantly enhanced USB 2.0 compliant interface",
@@ -71,12 +71,12 @@
         "And much more!"
       ],
       "windows": {
-        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest/download/RivenGUI-1_0_0-WIN.zip",
-        "sha256": "3e2ce6baa46f9f84ce23389fdbfd9938dfb8f39156c4ebb5b616250d838554ef"
+        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1_0_0/RivenGUI-1_0_0-WIN.zip",
+        "sha256": "d90e5cc4a3cdf623d61161b1755fb6c0f894c6173d9966549ecc58a157ff17f2"
       },
       "mac": {
-        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest/download/RivenGUI-1_0_0-MAC.zip",
-        "sha256": "3e2ce6baa46f9f84ce23389fdbfd9938dfb8f39156c4ebb5b616250d838554ef"
+        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1_0_0/RivenGUI-1_0_0-MAC-final.zip",
+        "sha256": "397b55de2c3432d00be53c78c8f23e3e403bf26ee09dc4efaf69a13108bb9ec8"
       }
     }
   }
