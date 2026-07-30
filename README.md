@@ -25,22 +25,3 @@ any consumer that doesn't recognize the schema version must fail open
 
 Field meaning and full design context: see `application_update-plan.md`
 in the source repo.
-
-## Publishing a manifest update
-
-Treat this as a reviewed step, not an automated one — a wrong claim here
-either falsely advertises firmware support the app doesn't have, or fails
-to surface an update that fixes a real gap. Before merging a change to
-`manifest.json`:
-
-1. The release it describes (APK and/or firmware binary) must already
-   exist under [Releases](../../releases).
-2. `sha256` must match the actual published artifact
-   (`shasum -a 256 <file>` / `Get-FileHash -Algorithm SHA256 <file>`).
-3. `knownSettingKeys` reflects what that specific released version
-   actually understands — not what's planned or in progress.
-
-## Releases
-
-Binaries (APKs, firmware images, loader installers) are attached to
-[GitHub Releases](../../releases), not committed to the repo tree.
