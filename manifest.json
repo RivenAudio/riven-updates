@@ -50,6 +50,29 @@
       "message": ""
     }
   },
+    "firmware": {
+    "latest": {
+      "version": "1.0.1",
+      "knownSettingKeys": [
+        "upmixed",
+        "highpass",
+        "hpHz",
+        "betaco",
+        "betahi",
+        "betahiXoverHz",
+        "hostVolume",
+        "inputSource",
+        "tuningMode",
+        "phoneStereo",
+        "hfMode",
+        "expThreshold",
+        "phaseDiffusion",
+        "expanderEnabled"
+      ],
+      "loaderDownloadUrl": "https://github.com/RivenAudio/riven-updates/releases/latest",
+      "message": ""
+    }
+  },
 
   "loader": {
     "latest": {
@@ -76,6 +99,24 @@
       },
       "mac": {
         "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1_0_0/RivenGUI-1_0_0-MAC-final.zip",
+        "sha256": "31a3d6d5b3e76563abdbfef68368c6c80836b6a77b4eb790270dad70a9c26c71"
+      }
+    }
+  },
+    "loader": {
+    "latest": {
+      "version": "1.0.0",
+      "firmwareVersion": "1.0.1",
+      "message": "RivenGUI First Bugfix Release",
+      "changelog": [
+        "Bug Fix: Digital SRP P-Pin Functionality Fix. Bug not present in Analog SRP."
+      ],
+      "windows": {
+        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1_0_0/RivenGUI-1_0_1-WIN.zip",
+        "sha256": "d90e5cc4a3cdf623d61161b1755fb6c0f894c6173d9966549ecc58a157ff17f2"
+      },
+      "mac": {
+        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1_0_0/RivenGUI-1_0_1-MAC-final.zip",
         "sha256": "31a3d6d5b3e76563abdbfef68368c6c80836b6a77b4eb790270dad70a9c26c71"
       }
     }
