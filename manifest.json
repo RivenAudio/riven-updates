@@ -118,7 +118,7 @@
       },
       "mac": {
         "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1.0.1/RivenGUI-1_0_1-MAC-final.zip",
-        "sha256": "sha256:e2fe07ae5842a6ff0812c156406d010614a8309aa4e108a02a48b1f70d22d1fa"
+        "sha256": "sha256:0eb87aa78d81adcdcfc9858919363b6fe3d6892155e5f2929708860f4488f19d"
       }
     }
   }
