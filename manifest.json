@@ -109,15 +109,16 @@
       "firmwareVersion": "1.0.1",
       "message": "RivenGUI First Bugfix Release",
       "changelog": [
-        "Bug Fix: Digital SRP P-Pin Functionality Fix. Bug not present in Analog SRP."
+        "Bug Fix: Digital SRP P-Pin firmware update."
+        "Feature: GUI reads current settings when uploading firmware and restores them after reboot"
       ],
       "windows": {
-        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1_0_0/RivenGUI-1_0_1-WIN.zip",
-        "sha256": "d90e5cc4a3cdf623d61161b1755fb6c0f894c6173d9966549ecc58a157ff17f2"
+        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1.0.1/RivenGUI-1_0_1-WIN.zip",
+        "sha256": "sha256:6ea13f44a3c62536ec49406bff104aa239c65dab26a546701e098faf55212745"
       },
       "mac": {
-        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1_0_0/RivenGUI-1_0_1-MAC-final.zip",
-        "sha256": "31a3d6d5b3e76563abdbfef68368c6c80836b6a77b4eb790270dad70a9c26c71"
+        "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1.0.1/RivenGUI-1_0_1-MAC-final.zip",
+        "sha256": "sha256:e2fe07ae5842a6ff0812c156406d010614a8309aa4e108a02a48b1f70d22d1fa"
       }
     }
   }
