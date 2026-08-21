@@ -105,12 +105,12 @@
   },
     "loader": {
     "latest": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "firmwareVersion": "1.0.1",
-      "message": "RivenGUI First Bugfix Release",
+      "message": "RivenGUI Bugfix Release",
       "changelog": [
-        "Bug Fix- Digital SRP P-Pin firmware update.",
-        "Feature- GUI reads current settings when uploading firmware and restores them after reboot"
+        "Bug Fix - Digital SRP P-Pin firmware update.",
+        "Feature - GUI reads current settings when uploading firmware and restores them after reboot"
       ],
       "windows": {
         "downloadUrl": "https://github.com/RivenAudio/riven-updates/releases/download/RivenGUI-1.0.1/RivenGUI-1_0_1-WIN.zip",
